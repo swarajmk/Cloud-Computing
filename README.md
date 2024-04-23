@@ -1,6 +1,6 @@
-# Cloud Computing Project - UE20CS351
+# Cloud Computing Project 
 ## Problem 6
-### Arshan R | Arpit P | Arihan A | Ayush S
+### Surya G | Suraj K | Suhas G | Swaraj MK
 --- 
 # Building an E-commerce Microservices Application on Cloud using Docker, Kubernetes, Jenkins, and Git
 
